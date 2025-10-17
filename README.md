@@ -22,6 +22,20 @@ Model yang digunakan:
 
 ---
 
+
+## 🌍 **Akses Aplikasi Secara Langsung**
+
+Ingin mencoba langsung aplikasi **Mushroom Classification App** tanpa instalasi?
+
+🔗 **Kunjungi aplikasi melalui Streamlit berikut:**  
+👉 [Klik di sini untuk membuka aplikasi Streamlit](https://tugasmandiri5-zahwa.streamlit.app/)
+
+> 🌐 Aplikasi dapat dijalankan langsung melalui browser dan menampilkan seluruh fitur mulai dari upload dataset, pemilihan algoritma klasifikasi, hingga hasil prediksi model secara interaktif.
+
+
+---
+
+
 ## 📊 **Dataset Overview**
 Dataset mencakup 22 fitur kategori seperti:  
 **cap-shape**, **cap-surface**, **cap-color**, **odor**, **gill-size**, **ring-type**, dan lainnya.  
